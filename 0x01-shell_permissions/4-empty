@@ -1,2 +1,2 @@
 #!/bin/bash
-touch hello
+root@a942030eca6b:/0x01-shell_permissions/4-empty# touch hello
