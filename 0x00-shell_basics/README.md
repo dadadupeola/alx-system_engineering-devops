@@ -1,1 +1,1 @@
-/root/alx-system_engineering-devops/0x00-shell_basics
+/tmp/correction/6363375666713134255068397025887669836354_5/205/164765/0x00-shell_basics
